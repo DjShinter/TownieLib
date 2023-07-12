@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownieLib", "TownieLib.csproj", "{2A864BD8-FD7D-46CB-A64F-DD11073CDEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A864BD8-FD7D-46CB-A64F-DD11073CDEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A864BD8-FD7D-46CB-A64F-DD11073CDEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A864BD8-FD7D-46CB-A64F-DD11073CDEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A864BD8-FD7D-46CB-A64F-DD11073CDEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA41526-966B-4A4B-B591-292A185C04C6}
+	EndGlobalSection
+EndGlobal
