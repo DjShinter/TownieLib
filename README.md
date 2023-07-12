@@ -3,9 +3,9 @@
  <h2 align="center">TownieLib</h2>
  <p align="center">Town of Salem 2 Mod Library! 
 </p>
-<center>
-Not to be confused with</span>&nbsp;<img width= "30px" src="https://i.imgur.com/WB9QCft.png"/><span class="covenText"> Coven</span>.
-</center>
+<p align="center">
+Not to be confused with <img width= "30px" src="https://i.imgur.com/WB9QCft.png"/> Coven.
+</p>
 <br>
   <p align="center">
     <a href="https://github.com/djshinter/townielib/graphs/contributors">
@@ -42,14 +42,15 @@ Not to be confused with</span>&nbsp;<img width= "30px" src="https://i.imgur.com/
 <p align="center">Love the project? Please consider <a href="https://github.com/DjShinter/TownieLib/Contribution.md">contributing</a> to help it improve.</p>
 
 
-The purpose of <span class="townText">TownieLib</span> is to help Modder's create mods for [Town of Salem 2](https://store.steampowered.com/app/334230/Town_of_Salem/).
-
-This project is an ongoing project and is under heavy development, so expect breaking with minor revisions before the 1.0.0 release.
 
 
 ___
 ### TownieLib
-A library plugin for other plugins to use. Mainly used to help making mods to prevent code repetition and complex code as it is only needed to be implemented once.
+The purpose of TownieLib is to help Modder's create mods for [Town of Salem 2](https://store.steampowered.com/app/334230/Town_of_Salem/).
+
+This project is an ongoing project and is under heavy development, so expect breaking with minor revisions before the 1.0.0 release.
+
+TownieLib is mainly used to help making mods to prevent code repetition and complex code as it is only needed to be implemented once.
 ### Example Code
 
 ```cs
@@ -81,7 +82,7 @@ ____
 
 ____
 ### Contributing
-You would need to follow the "Building this project", and may create a pull request.
+You would need to follow the "Building this project", and you can create a pull request.
 
 
 All help is appreciated!
@@ -99,18 +100,6 @@ To quote a developer in the official Town of Salem 2 [Discord](https://discord.g
 > We plan to have official mod support, but having a good base is important. A new player won't have a mod preinstalled.
 
 </p>
-<style>
-    .townText
-    {
-        color:#06E00C;
-        font-weight:bold;
-    }
-    .covenText
-    {
-        color:#B545FF;
-        font-weight:bold;
-    }
-</style>
 
 ___
 ### Credits
