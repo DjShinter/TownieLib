@@ -8,7 +8,7 @@ Not to be confused with <img width= "30px" src="https://i.imgur.com/WB9QCft.png"
 </p>
 <br>
   <p align="center">
-    <a href="https://github.com/djshinter/townielib/graphs/contributors">
+    <a href="https://discord.gg/bCEbam2anG">
       <img alt="GitHub Contributors" src="https://img.shields.io/discord/1003392508568535101?label=discord&logo=discord&style=flat" />
     </a>
     <a href="https://github.com/djshinter/townielib/graphs/contributors">
