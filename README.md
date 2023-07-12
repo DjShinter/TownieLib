@@ -74,7 +74,7 @@ void Update()
     }
 ```
 
-This example assumes you already know how to setup a BepInEx Plugin, and this advises you on how to use TownieLib, If TownieLib is missing a useful or required method / field, it can be [requested](https://github.com/djshinter/townielib/issues/new/choose) here, and if you can contribute, you may read the contributing section!
+This example assumes you already know how to setup a BepInEx Plugin and be able to reference TownieLib.dll, and this advises you on how to use TownieLib, If TownieLib is missing a useful or required method / field, it can be [requested](https://github.com/djshinter/townielib/issues/new/choose) here, and if you can contribute, you may read the contributing section!
 ____
 ### Building this project
 
