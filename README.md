@@ -8,7 +8,7 @@ Not to be confused with <img width= "30px" src="https://i.imgur.com/WB9QCft.png"
 </p>
 <br>
   <p align="center">
-    <a href="https://discord.gg/bCEbam2anG">
+    <a href="https://discord.gg/AdpRqzstfj">
       <img alt="GitHub Contributors" src="https://img.shields.io/discord/1003392508568535101?label=discord&logo=discord&style=flat" />
     </a>
     <a href="https://github.com/djshinter/townielib/graphs/contributors">
@@ -29,7 +29,7 @@ Not to be confused with <img width= "30px" src="https://i.imgur.com/WB9QCft.png"
   </p>
 
   <p align="center">
-    <a href="https://discord.gg/bCEbam2anG">Join the Discord!</a>
+    <a href="https://discord.gg/AdpRqzstfj">Join the Discord!</a>
     ·
     <a href="https://github.com/djshinter/townielib/issues/new/choose">Report Issues</a>
     ·
@@ -90,7 +90,7 @@ All help is appreciated!
 
 ___
 ### Is modding bannable?
-To quote the "Salem Mod Loader" [Discord](https://discord.gg/bCEbam2anG).
+To quote the "Salem Mod Loader" [Discord](https://discord.gg/AdpRqzstfj).
 > Use the mod at your own risk, while you have very low odds of being banned, you could be at risk if you openly state in games you are running a modded client as trials may guilty you under hacking even though the mod gives no advantages.
 
 [Town of Salem Rules](https://www.blankmediagames.com/rules/)
